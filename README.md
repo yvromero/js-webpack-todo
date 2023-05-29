@@ -2,4 +2,5 @@
 
 Para usar este repositorio, deberán ejecutar el comando de ```npm install```
 
-Pero esto lo veremos en la siguiente sección
+Repo: https://github.com/yvromero/js-webpack-todo
+Github Pages: https://yvromero.github.io/js-webpack-todo/
